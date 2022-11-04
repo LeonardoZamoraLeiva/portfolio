@@ -352,7 +352,7 @@ body {
   width: 1100px;
   height: 350px;
   font-size: var(--font-size-xl);
-  background-color: rgba(114, 99, 149, 0.1);
+  background-color: rgba(114, 57, 187, 0.3);
   border-radius: 10px;
   opacity: 90%;
 }
@@ -894,7 +894,7 @@ body {
 }
 
 .Logo {
-  height: 120px;
+  height: 5em;
   margin-right: 1em;
   margin-bottom: 2em;
   margin-left: 1em;
